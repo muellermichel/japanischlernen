@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## Herzlich Willkommen auf japanischlernen.ch!
+
+Möchten Sie die Japanische Sprache und Kultur kennenlernen - vor der Reise, geschäftlich oder aus sonstigem Interesse? Dann sind Sie auf dieser Website genau richtig! Auf dieser Seite finden Sie Lernmaterialien, mein Kursangebot in Zürich sowie viele weitere Informationen. Ich möchte Ihnen dabei helfen, eine neue Welt kennenzulernen und dabei Spass zu haben!
+
+## Meine aktuellen Angebote
+
+Gerne offeriere ich Ihnen folgende Angebote:
+
+* **Online-Untericht** mit Audio, Video und Bildschirmübertragung (Skype).
+* **Persönlichen Unterricht** in der Region Zug
+* **Übersetzungen** von Deutsch ins Japanische, von Japanisch ins Deutsche
+* **Lernmaterial** "Japanisch für Reisende" als PDF
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/muellermichel/japanischlernen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -34,4 +47,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
