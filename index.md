@@ -4,7 +4,7 @@ Möchten Sie die Japanische Sprache und Kultur kennenlernen - vor der Reise, ges
 
 ## Meine aktuellen Angebote
 
-<img align="right" style="margin:0 0 10px 10px; height:300px" src="{{ site.url }}/assets/img/office1.jpg">
+<img align="right" style="margin:0 0 10px 10px; height:300px" src="{{ "/assets/img/office1.jpg" | relative_url}}">
 Gerne offeriere ich Ihnen folgende Angebote:
 
 * [**Online-Untericht** mit Audio, Video und Bildschirmübertragung (Skype)]({{ site.url }}/lessons-de)
