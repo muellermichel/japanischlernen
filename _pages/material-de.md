@@ -9,7 +9,7 @@ Dieses Lernmaterial ist als Sprachführer für Anfänger in Japanisch gedacht. E
 
 <table>
     <tr>
-        <td rowspan="6"><a href="{{ "/assets/probelektuere.zip" | relative_url }}"><img align="left" style="margin:0 10px 10px 0" src="{{ "/assets/img/JapanischFuerReisende.png" | relative_url"></a></td>
+        <td rowspan="6"><a href="{{ "/assets/probelektuere.zip" | relative_url }}"><img align="left" style="margin:0 10px 10px 0" src="{{ "/assets/img/JapanischFuerReisende.png" | relative_url }}"></a></td>
         <td><strong>Japanisch Für Reisende</strong><br/>Vorbereitung zur Sprache und Kultur</td>
     </tr>
     <tr>
