@@ -7,10 +7,10 @@ Möchten Sie die Japanische Sprache und Kultur kennenlernen - vor der Reise, ges
 <img align="right" style="margin:0 0 10px 10px; height:300px" src="{{ "/assets/img/office1.jpg" | relative_url}}">
 Gerne offeriere ich Ihnen folgende Angebote:
 
-* [**Online-Untericht** mit Audio, Video und Bildschirmübertragung (Skype)]({{ site.url }}/lessons-de)
-* [**Persönlichen Unterricht** in der Region Zug]({{ site.url }}/lessons-de)
-* [**Übersetzungen** von Deutsch ins Japanische, von Japanisch ins Deutsche]({{ site.url }}/contact-de)
-* [**Lernmaterial** "Japanisch für Reisende" als PDF]({{ site.url }}/material-de)
+* [**Online-Untericht** mit Audio, Video und Bildschirmübertragung (Skype)]({{ /lessons-de | relative_url }})
+* [**Persönlichen Unterricht** in der Region Zug]({{ /lessons-de | relative_url }})
+* [**Übersetzungen** von Deutsch ins Japanische, von Japanisch ins Deutsche]({{ /contact-de | relative_url }})
+* [**Lernmaterial** "Japanisch für Reisende" als PDF]({{ /material-de | relative_url }})
 
 <!-- ## Welcome to GitHub Pages
 

@@ -9,11 +9,11 @@ Dieses Lernmaterial ist als Sprachführer für Anfänger in Japanisch gedacht. E
 
 <table>
     <tr>
-        <td rowspan="6"><a href="{{ site.url }}/assets/probelektuere.zip"><img align="left" style="margin:0 10px 10px 0" src="{{ /assets/img/JapanischFuerReisende.png | relative_url"></a></td>
+        <td rowspan="6"><a href="{{ /assets/probelektuere.zip | relative_url }}"><img align="left" style="margin:0 10px 10px 0" src="{{ /assets/img/JapanischFuerReisende.png | relative_url"></a></td>
         <td><strong>Japanisch Für Reisende</strong><br/>Vorbereitung zur Sprache und Kultur</td>
     </tr>
     <tr>
-        <td><a href="{{ site.url }}/assets/probelektuere.zip">Probelektüre mit Audio</a></td>
+        <td><a href="{{ /assets/probelektuere.zip | relative_url }}">Probelektüre mit Audio</a></td>
     </tr>
     <tr>
         <td>Sprachführer inkl. Reisewörterbuch</td>
