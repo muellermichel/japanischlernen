@@ -16,7 +16,7 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% for item in site.data.navigation.docs-de %}
-        <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+        <h3><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
         {% endfor %}
         {% if site.logo %}
         <img src="{{site.logo | relative_url}}" alt="Logo" />
