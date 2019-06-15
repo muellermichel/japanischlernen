@@ -3,7 +3,7 @@ permalink: "/about-en/"
 title:  "Über mich"
 ---
 
-<img align="left" style="margin:0 10px 10px 0;" src="{{ /assets/img/portrait_mihoko.jpg | relative_url }}">
+<img align="left" style="margin:0 10px 10px 0;" src="{{ "/assets/img/portrait_mihoko.jpg" | relative_url }}">
 Hello, my name is Mihoko Mueller.
 This name has a meaning. "Mi" of "Mihoko means "beauty" and "ho" means "rice ear". My father named it impressed by beautiful rice ears trailing to the wind in the farm of his hometown.
 
@@ -17,7 +17,7 @@ I'd like to meet many Swiss people and introduce also Japanese culture and tradi
 
 ## Education
 
-<img align="right" style="margin:0 0 10px 10px; height:300px" src="{{ /assets/img/certificate.jpg | relative_url }}">
+<img align="right" style="margin:0 0 10px 10px; height:300px" src="{{ "/assets/img/certificate.jpg" | relative_url }}">
 * 2012: Tour guide diploma for guiding foreigners in Japan in German passed
 * 2012: Goethe-Zertifikat (C1) passed
 * 2009: Japanese Language Teaching Competency Test passed
