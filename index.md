@@ -1,6 +1,6 @@
 ## Herzlich Willkommen auf japanischlernen.ch!
 
-Möchten Sie Japanische Sprache und Kultur kennenlernen - vor der Reise, geschäftlich oder aus sonstigem Interesse? Dann sind Sie auf dieser Website genau richtig! Auf dieser Seite finden Sie Lernmaterialien, mein Kursangebot in Zürich sowie viele weitere Informationen. Ich möchte Ihnen dabei helfen, eine neue Welt kennenzulernen und dabei Spass zu haben!
+Möchten Sie die Japanische Sprache und Kultur kennenlernen - vor der Reise, geschäftlich oder aus sonstigem Interesse? Dann sind Sie auf dieser Website genau richtig! Auf dieser Seite finden Sie Lernmaterialien, mein Kursangebot sowie viele weitere Informationen. Ich möchte Ihnen dabei helfen, eine neue Welt kennenzulernen und dabei Spass zu haben!
 
 ## Meine aktuellen Angebote
 
