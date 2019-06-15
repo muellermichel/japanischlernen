@@ -20,6 +20,7 @@ Mein Unterricht ist sehr flexibel! Ich arrangiere den Unterricht je nach dem Zie
 
 ### Reisevorbereitungskurs
 
+<img align="right" style="margin:0 0 10px 10px; height:300px" src="{{ site.url }}/assets/img/JapanischFuerReisende.png">
 * Reise-Knigge
 * Grussformeln, Selbstvorstellung
 * im Taxi
