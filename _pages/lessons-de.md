@@ -40,7 +40,7 @@ Mein Unterricht ist sehr flexibel! Ich arrangiere den Unterricht je nach dem Zie
 ### Angebote (jeweils vor Ort oder Online)
 
 | Einzelunterricht | CHF 68 / Stunde |
-|| (Studenten: CHF 50 / Stunde) |
+| Einzelunterricht Studenten | CHF 50 / Stunde |
 | Kleingruppen-Unterricht (für 2 Personen)  | CHF 40 / Stunde pro Person |
 | Kleingruppen-Unterricht (für 3 Personen)  | CHF 30 / Stunde pro Person |
 | Gruppen-Unterricht (ab 4 Personen)  | CHF 25 / Stunde pro Person |
