@@ -48,6 +48,6 @@ Mein Unterricht ist sehr flexibel! Ich arrangiere den Unterricht je nach dem Zie
 ### Welches Lehrmaterial wird benützt?
 
 * Für den Reisekurs: Mein eigens entwickeltes Material
-* Deutschsprechende: Japanisch im Sauseschritt oder Minna no Nihongo
-* English Speakers: Japanese for Busy People or Minna no Nihongo or Genki
+* Deutschsprechende: 'Marugoto' oder 'Minna no Nihongo'
+* English Speakers: 'Marugoto', 'Minna no Nihongo', 'Japanese for Busy People' or 'Genki'
 * Ausserdem: Viele selbst erstellte und auf die Bedürfnisse des Schülers abgestimmten Arbeitsblätter, aktuelle Fotos, Zeitungen und Zeitschriften!
