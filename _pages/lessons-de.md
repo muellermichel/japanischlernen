@@ -37,10 +37,13 @@ Mein Unterricht ist sehr flexibel! Ich arrangiere den Unterricht je nach dem Zie
 * **Online-Untericht** mit Audio, Video und Bildschirmübertragung (Skype).
 * **Persönlichen Unterricht** in der Region Zug
 
-### Was sind die Kosten für eine Lektion (60 min)?
+### Angebote (jeweils vor Ort oder Online)
 
-| Privat | CHF 68 |
-| ab 2 Personen  | CHF 40 p.P. |
+| Einzelunterricht | CHF 68 / Stunde |
+|| (Studenten: CHF 50 / Stunde) |
+| Kleingruppen-Unterricht (für 2 Personen)  | CHF 40 / Stunde pro Person |
+| Kleingruppen-Unterricht (für 3 Personen)  | CHF 30 / Stunde pro Person |
+| Gruppen-Unterricht (ab 4 Personen)  | CHF 25 / Stunde pro Person |
 
 ### Welches Lehrmaterial wird benützt?
 
