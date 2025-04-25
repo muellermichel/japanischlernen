@@ -2,6 +2,8 @@
 
 Möchten Sie die Japanische Sprache und Kultur kennenlernen - vor der Reise, geschäftlich oder aus sonstigem Interesse? Dann sind Sie auf dieser Website genau richtig! Auf dieser Seite finden Sie Lernmaterialien, mein Kursangebot sowie viele weitere Informationen. Ich möchte Ihnen dabei helfen, eine neue Welt kennenzulernen und dabei Spass zu haben!
 
+Mein Unterricht zeichnet sich aus durch eine freundliche und persönliche Lernatmosphäre. Ich verfüge über tiefes Fachwissen und über 15 Jahre Erfahrung um Ihnen ein individuelles Lernerlebnis bieten zu können.
+
 ## Meine aktuellen Angebote
 
 <img align="right" style="margin:0 0 10px 10px; height:300px" src="{{ "/assets/img/office1.jpg" | relative_url}}">
